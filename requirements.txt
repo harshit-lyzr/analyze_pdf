@@ -4,3 +4,4 @@ pdf2image
 fastapi
 uvicorn
 poppler-utils
+python-multipart
