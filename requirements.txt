@@ -1,0 +1,6 @@
+python-dotenv
+openai
+pdf2image
+fastapi
+uvicorn
+poppler-utils
